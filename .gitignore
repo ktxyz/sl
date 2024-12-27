@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Lex/Bison
+src/lex.yy.c
+src/sl.tab.h
+
+./sl
+
