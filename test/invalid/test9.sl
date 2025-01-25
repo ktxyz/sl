@@ -1,0 +1,2 @@
+integer x;
+x := "hello";

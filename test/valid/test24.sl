@@ -1,0 +1,1 @@
+if not false then print("test");

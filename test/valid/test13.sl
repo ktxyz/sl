@@ -1,0 +1,1 @@
+print(substring("test", 1, 5));

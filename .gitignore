@@ -28,5 +28,10 @@
 
 # Executables
 *.exe
-*.out
+# *.out Expected test output
 *.app
+src/sl.yy.c
+src/sl.tab.c
+src/sl.tab.h
+bin/sl
+.gitignore
