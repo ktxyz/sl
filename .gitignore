@@ -26,6 +26,9 @@
 *.a
 *.lib
 
+# Editors
+.vscode/
+
 # Executables
 *.exe
 # *.out Expected test output
